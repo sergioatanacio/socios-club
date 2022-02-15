@@ -1,0 +1,11 @@
+/public/file_store/
+*.zip
+*.rar
+*.html
+*.swp
+vendor/
+node_modules/
+
+composer.lock
+package-lock.json
+landing_page\css\style_of_stylus.css
